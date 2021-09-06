@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClearFocusedRow", "ClearFocusedRow.vbproj", "{2FD38AA3-2657-484C-91DB-E3647677CB4F}"
 EndProject
